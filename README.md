@@ -1,6 +1,7 @@
 # <Prework Study Guide Webpage>
 
-## As a UCF Coding Bootcamp student I needed to keep my notes organized throughout the course. I created a webpage thaht would store all of my notes in one place that is easy to access. Through buillding this website I have obtained a baseline knowledge of HTML, CSS, Git, and JavaScript.
+## Description
+ As a UCF Coding Bootcamp student I needed to keep my notes organized throughout the course. I created a webpage thaht would store all of my notes in one place that is easy to access. Through buillding this website I have obtained a baseline knowledge of HTML, CSS, Git, and JavaScript.
 
 ## Installation
 
